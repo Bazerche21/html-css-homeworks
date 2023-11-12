@@ -1,0 +1,14 @@
+.circle{
+    background-color:#ADD8E6;
+  display:block;
+  height:20px;
+  width:20px;
+  border-radius:50%;
+  border:2px solid #000;
+  margin:auto;
+  color: #000;
+  line-height:20px;
+  font-size: 7px;
+  font-weight: bold;
+  text-align:center
+}
