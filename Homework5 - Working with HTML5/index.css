@@ -1,0 +1,43 @@
+h1{
+    background-color: aqua;
+}
+
+#style-hyperlink:hover{
+    color: chartreuse;
+}
+
+#style-hyperlink:visited{
+    color:deeppink;
+}
+
+#styling-hyperlinks:focus {
+    color:lime;
+}
+
+#paris-pa{
+    color: darkred;
+}
+
+#paris-ris{
+    color:darkblue;
+}
+
+#rome-ro{
+    color: #891446;
+}
+
+#rome-me{
+    color:#CC7722
+}
+
+#barcelona-bar{
+    color: red;
+}
+
+#barcelona-ce{
+    color:#F6BE00;
+}
+
+#barcelona-lona{
+    color: #E1D9D1
+}
